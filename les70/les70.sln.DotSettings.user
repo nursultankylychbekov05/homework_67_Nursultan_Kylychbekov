@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d546782_002D6bbd_002D420d_002Da01f_002D78c5f33f4205/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPage_IncrementsPageInModel" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E7D14284-CCA0-440D-B7F9-9D4A6D4E4129::net9.0::HomeControllerTestPageTests.TestPage_IncrementsPageInModel&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E7D14284-CCA0-440D-B7F9-9D4A6D4E4129::net9.0::HomeControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E7D14284-CCA0-440D-B7F9-9D4A6D4E4129::net9.0::les67.Tests.PasswordHasherTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E7D14284-CCA0-440D-B7F9-9D4A6D4E4129::net9.0::HomeControllerTestPageTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
